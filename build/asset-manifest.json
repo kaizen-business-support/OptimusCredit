@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/optimus/static/css/main.0a126736.css",
+    "main.js": "/optimus/static/js/main.c0babcfa.js",
+    "index.html": "/optimus/index.html",
+    "main.0a126736.css.map": "/optimus/static/css/main.0a126736.css.map",
+    "main.c0babcfa.js.map": "/optimus/static/js/main.c0babcfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a126736.css",
+    "static/js/main.c0babcfa.js"
+  ]
+}
